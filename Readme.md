@@ -20,6 +20,7 @@ It is designed for scalability, extensibility, and production deployment in high
 
 ## 🧠 Architecture
 Frontend (React)
+```
 │
 │ REST API Calls
 ▼
@@ -32,7 +33,7 @@ Backend (FastAPI)
 │ └── Pricing Optimization Engine
 │
 └── Response Layer (JSON APIs)
-
+```
 
 ### 🔹 Frontend
 - React.js dashboard
