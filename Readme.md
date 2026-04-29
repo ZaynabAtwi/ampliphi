@@ -23,8 +23,8 @@ It is designed for scalability, extensibility, and production deployment in high
 Dataset
 Kaggle Dataset:[Hotel Revenue 2024](https://www.kaggle.com/datasets/omarsobhy14/hotel-revenue2024)
 
-Frontend (React)
 ```
+Frontend (React)
 │
 │ REST API Calls
 ▼
